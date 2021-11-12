@@ -34,40 +34,49 @@ img{
 
 #introduction {
   grid-area: introduction;
-  background-color: #808080;
+  background-color: #;
+  padding: 10px;
 }
 
 #intropic {
   grid-area: intropic;
-  background-color: #808080;
+  background-color: #;
 }
 
 #environment {
-  grid-area; issues;\
-  background-color: #808080;
+  grid-area; issues;
+  background-color: #;
+  padding: 10px;
 }
 
 #transportation {
   grid-area: transportation;
-  background-color: #808080;
+  background-color: #;
+  padding: 10px;
 }
 
 #railways {
   grid-area: railways;
+  background-color: #;
+  padding: 10px;
 }
 
 #roads {
   grid-area: roads;
+  background-color: #;
+  padding: 10px;
 }
 
 #people_and_society {
   grid-area: people_and_society;
-  background-color: #808080;
+  background-color: #;
+  padding: 10px;
 }
 
 #religion {
   grid-area: religion;
-  background-color: #808080;
+  background-color: #;
+  padding: 10px;
 }
 
 footer {
