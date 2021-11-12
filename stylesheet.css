@@ -69,3 +69,7 @@ img{
   grid-area: religion;
   background-color: #808080;
 }
+
+figcaption {
+  text-align: center;
+}
