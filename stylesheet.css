@@ -1,9 +1,9 @@
 body{
   max-width: 960px;
-  margin: auto auto;
+  margin: 20px auto;
   display: grid;
   grid-template-columns: auto auto;
-  grid-gap: 20px;
+  grid-gap: 5px;
   grid-template-areas:
     "header header"
     "introduction intropic"
