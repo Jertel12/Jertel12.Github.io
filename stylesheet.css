@@ -3,7 +3,7 @@ body{
   margin: 20px auto;
   display: grid;
   grid-template-columns: auto auto;
-  grid-gap: 30px;
+  grid-gap: 50px;
   grid-template-areas:
     "header header"
     "introduction intropic"
