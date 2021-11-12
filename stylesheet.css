@@ -1,13 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
-
-
-
 html{
   background:
 }
 
 body{
+  max-width: 960px;
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 20px
+  grid-template-areas:
+    "H1 H1"
+    "introduction introduction"
+    "environment issues"
+    "transportation people_and_society"
+    "peoplepic religion"
   font-family: 'Nunito', sans-serif;
   line-height: 1.5;
   color: #000000;
