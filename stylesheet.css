@@ -38,7 +38,7 @@ img{
   border-color: #000000;
 }
 
-h1{
+header {
 grid-area: masthead;
 }
 
