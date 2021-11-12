@@ -38,6 +38,7 @@ img{
   grid-area: introduction;
   background-color: #0047AB;
   padding: 10px;
+  color: #FFFFFF;
 }
 
 #intropic {
@@ -48,36 +49,42 @@ img{
 #environment {
   grid-area; issues;
   background-color: #0047AB;
+  color: #FFFFFF;
   padding: 10px;
 }
 
 #transportation {
   grid-area: transportation;
   background-color: #0047AB;
+  color: #FFFFFF;
   padding: 10px;
 }
 
 #railways {
   grid-area: railways;
   background-color: #0047AB;
+  color: #FFFFFF;
   padding: 10px;
 }
 
 #roads {
   grid-area: roads;
   background-color: #0047AB;
+  color: #FFFFFF;
   padding: 10px;
 }
 
 #people_and_society {
   grid-area: people_and_society;
   background-color: #0047AB;
+  color: #FFFFFF;
   padding: 10px;
 }
 
 #religion {
   grid-area: religion;
   background-color: #0047AB;
+  color: #FFFFFF;
   padding: 10px;
 }
 
