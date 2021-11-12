@@ -19,6 +19,7 @@ header {
   font-weight: 400;
   grid-area: header;
   background-color: #C41E3A;
+  color: #FFFFFF;
 }
 
 p{
