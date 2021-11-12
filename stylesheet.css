@@ -8,6 +8,7 @@ body{
     "header header"
     "introduction intropic"
     "environment transportation"
+    "railways roads"
     "people_and_society religion";
   font-family: 'Nunito', sans-serif;
   color: #000000;
@@ -49,6 +50,14 @@ img{
 #transportation {
   grid-area: transportation;
   background-color: #808080;
+}
+
+#railways {
+  grid-area: railways;
+}
+
+#roads {
+  grid-area: roads;
 }
 
 #people_and_society {
