@@ -16,7 +16,7 @@ body{
 header {
   font-family: 'Yuji Syuku', serif;
   font-weight: 400;
-  margin: auto;
+  grid-area: header;
 }
 
 p{
@@ -32,9 +32,6 @@ img{
   border-color: #000000;
 }
 
-header {
-grid-area: header;
-}
 
 #introduction {
   grid-area: introduction;
