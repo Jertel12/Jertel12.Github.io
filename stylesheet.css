@@ -33,6 +33,10 @@ img{
   border-color: #000000;
 }
 
+h2 {
+  text-decoration: underline 3px #C41E3A;
+  margin-top: 0;
+}
 
 #introduction {
   grid-area: introduction;
