@@ -45,3 +45,27 @@ grid-area: masthead;
 #introduction {
   grid-area: introduction;
 }
+
+#environment {
+  grid-area: environment;
+}
+
+#issues {
+  grid-area; issues;
+}
+
+#transportation {
+  grid-area: transportation;
+}
+
+#people_and_society {
+  grid-area: people_and_society;
+}
+
+#peoplepic {
+  grid-area: peoplepic;
+}
+
+#religion {
+  grid-area: religion;
+}
