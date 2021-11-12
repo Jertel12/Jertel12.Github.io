@@ -1,15 +1,15 @@
-/*body{
+body{
   max-width: 960px;
   margin: 20px auto;
   display: grid;
   grid-template-columns: auto auto;
   grid-gap: 40px
   grid-template-areas:
-    "masthead masthead"
-    "introduction introduction"
-    "environment issues"
-    "transportation people_and_society"
-    "peoplepic religion"
+    "header header"
+    "introduction intropic"
+    "environment transportation"
+    "people_and_society religion"
+    "footer footer"
   font-family: 'Nunito', sans-serif;
   line-height: 1.5;
   color: #000000;
@@ -42,11 +42,11 @@ grid-area: masthead;
   grid-area: introduction;
 }
 
-#environment {
+#intropic {
   grid-area: environment;
 }
 
-#issues {
+#environment {
   grid-area; issues;
 }
 
@@ -58,11 +58,6 @@ grid-area: masthead;
   grid-area: people_and_society;
 }
 
-#peoplepic {
-  grid-area: peoplepic;
-}
-
 #religion {
   grid-area: religion;
 }
-*/
