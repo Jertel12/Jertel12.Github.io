@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+
+
+html{
+  background:
+}
+
+body{
+  font-family: 'Nunito', sans-serif;
+  color: #000000;
+}
+
+header{
+  font-family: 'Yuji Syuku', serif;
+  font-weight: 400;
+  margin: auto;
+}
+
+p{
+  font-family: 'Yuji Syuku', serif;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+img{
+  width: 450px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #000000;
+}
