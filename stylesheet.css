@@ -37,20 +37,25 @@ img{
 
 #intropic {
   grid-area: intropic;
+  background-color: #808080;
 }
 
 #environment {
-  grid-area; issues;
+  grid-area; issues;\
+  background-color: #808080;
 }
 
 #transportation {
   grid-area: transportation;
+  background-color: #808080;
 }
 
 #people_and_society {
   grid-area: people_and_society;
+  background-color: #808080;
 }
 
 #religion {
   grid-area: religion;
+  background-color: #808080;  
 }
