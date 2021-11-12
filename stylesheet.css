@@ -35,7 +35,7 @@ img{
 }
 
 header {
-grid-area: masthead;
+grid-area: header;
 }
 
 #introduction {
@@ -43,7 +43,7 @@ grid-area: masthead;
 }
 
 #intropic {
-  grid-area: environment;
+  grid-area: intropic;
 }
 
 #environment {
