@@ -18,6 +18,7 @@ header {
   font-family: 'Yuji Syuku', serif;
   font-weight: 400;
   grid-area: header;
+  background-color: #C41E3A;
 }
 
 p{
@@ -40,7 +41,7 @@ img{
 
 #intropic {
   grid-area: intropic;
-  
+
 }
 
 #environment {
