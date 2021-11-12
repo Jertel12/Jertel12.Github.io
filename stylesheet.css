@@ -34,48 +34,48 @@ img{
 
 #introduction {
   grid-area: introduction;
-  background-color: #;
+  background-color: #89CFF0;
   padding: 10px;
 }
 
 #intropic {
   grid-area: intropic;
-  background-color: #;
+  background-color: #89CFF0;
 }
 
 #environment {
   grid-area; issues;
-  background-color: #;
+  background-color: #89CFF0;
   padding: 10px;
 }
 
 #transportation {
   grid-area: transportation;
-  background-color: #;
+  background-color: #89CFF0;
   padding: 10px;
 }
 
 #railways {
   grid-area: railways;
-  background-color: #;
+  background-color: #89CFF0;
   padding: 10px;
 }
 
 #roads {
   grid-area: roads;
-  background-color: #;
+  background-color: #89CFF0;
   padding: 10px;
 }
 
 #people_and_society {
   grid-area: people_and_society;
-  background-color: #;
+  background-color: #89CFF0;
   padding: 10px;
 }
 
 #religion {
   grid-area: religion;
-  background-color: #;
+  background-color: #89CFF0;
   padding: 10px;
 }
 
