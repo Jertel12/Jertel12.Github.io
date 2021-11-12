@@ -37,3 +37,7 @@ img{
   border-width: 5px;
   border-color: #000000;
 }
+
+#introduction {
+  grid-area: introduction; 
+}
