@@ -9,7 +9,7 @@ body{
   grid-template-columns: auto auto;
   grid-gap: 20px
   grid-template-areas:
-    "H1 H1"
+    "masthead masthead"
     "introduction introduction"
     "environment issues"
     "transportation people_and_society"
@@ -38,6 +38,10 @@ img{
   border-color: #000000;
 }
 
+h1{
+grid-area: masthead;
+}
+
 #introduction {
-  grid-area: introduction; 
+  grid-area: introduction;
 }
