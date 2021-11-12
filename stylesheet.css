@@ -3,14 +3,14 @@ body{
   margin: 20px auto;
   display: grid;
   grid-template-columns: auto auto;
-  grid-gap: 40px;
+  grid-gap: 20px;
   grid-template-areas:
     "header header"
     "introduction intropic"
     "environment transportation"
     "people_and_society religion";
   font-family: 'Nunito', sans-serif;
-  line-height: 1.5;
+  line-height: 1;
   color: #000000;
 }
 
