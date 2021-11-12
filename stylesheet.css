@@ -1,4 +1,4 @@
-body{
+/*body{
   max-width: 960px;
   margin: 20px auto;
   display: grid;
@@ -65,3 +65,4 @@ grid-area: masthead;
 #religion {
   grid-area: religion;
 }
+*/
