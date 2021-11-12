@@ -39,6 +39,7 @@ grid-area: header;
 
 #introduction {
   grid-area: introduction;
+  max-width: 60ch;
 }
 
 #intropic {
