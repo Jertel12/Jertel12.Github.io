@@ -1,0 +1,117 @@
+body{
+  max-width: 960px;
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 70px;
+  grid-template-areas:
+    "header header"
+    "introduction intropic"
+    "environment transportation"
+    "railways roads"
+    "people_and_society religion";
+  font-family: 'Nunito', sans-serif;
+  color: #000000;
+}
+
+header {
+  font-family: 'Yuji Syuku', serif;
+  font-weight: 400;
+  grid-area: header;
+  background-color: #C41E3A;
+  color: #FFFFFF;
+}
+
+p{
+  font-family: 'Yuji Syuku', serif;
+}
+
+img{
+  width: 100%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #000000;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+#introduction {
+  grid-area: introduction;
+  background-color: #0047AB;
+  padding: 10px;
+  color: #FFFFFF;
+  border-style: solid;
+  border-color: #C41E3A;
+  border-width: 5px;
+}
+
+#intropic {
+  grid-area: intropic;
+
+}
+
+#environment {
+  grid-area; issues;
+  background-color: #0047AB;
+  color: #FFFFFF;
+  padding: 10px;
+  border-style: solid;
+  border-color: #C41E3A;
+  border-width: 5px;
+}
+
+#transportation {
+  grid-area: transportation;
+  background-color: #0047AB;
+  color: #FFFFFF;
+  padding: 10px;
+  border-style: solid;
+  border-color: #C41E3A;
+  border-width: 5px;
+}
+
+#railways {
+  grid-area: railways;
+  background-color: #0047AB;
+  color: #FFFFFF;
+  padding: 10px;
+  border-style: solid;
+  border-color: #C41E3A;
+  border-width: 5px;
+}
+
+#roads {
+  grid-area: roads;
+  background-color: #0047AB;
+  color: #FFFFFF;
+  padding: 10px;
+  border-style: solid;
+  border-color: #C41E3A;
+  border-width: 5px;
+}
+
+#people_and_society {
+  grid-area: people_and_society;
+  background-color: #0047AB;
+  color: #FFFFFF;
+  padding: 10px;
+  border-style: solid;
+  border-color: #C41E3A;
+  border-width: 5px;
+}
+
+#religion {
+  grid-area: religion;
+  background-color: #0047AB;
+  color: #FFFFFF;
+  padding: 10px;
+  border-style: solid;
+  border-color: #C41E3A;
+  border-width: 5px;
+}
+
+footer {
+  text-align: center;
+}
